@@ -28,7 +28,7 @@ Harness CD is a modern self-service continuous delivery solution that allows dev
 #### What is Harness CD Community Edition?
 
 Harness CD Community Edition is a free and open edition of Harness CD that is designed for developers to deploy cloud-native services at the fastest velocity possible. Developers can self-host this edition on Docker or Kubernetes using a [docker-compose.yml](./docker-compose/harness/) or a [helm-chart](./helm/) respectively. This `harness-cd-community` repo houses these docker-compose and helm installers for Harness CD Community Edition while the `harness-core` and other public repos in this `harness` organization house the source code.
-
+some
 Harness CD is also available as a fully-managed SaaS solution in three different plans, namely Free, Team and Enterprise. For more details, see the [Harness CD Editions & Plans](https://harness.io/pricing/?module=cd) page.
 
 <p align="center">
