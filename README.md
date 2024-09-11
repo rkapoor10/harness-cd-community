@@ -15,9 +15,6 @@ some
 
 Harness CD is a modern self-service continuous delivery solution that allows developers to deploy, verify and automatically rollback Kubernetes and other cloud-native applications on any public or private cloud infrastructure of their choice.
 
-test comment
-test
-test
 
 
 - [What is Harness CD Community Edition?](#what-is-harness-cd-community-edition)
