@@ -1,6 +1,6 @@
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
-# As of Dec 2023, This Repository is Archived
+# As of Dec 2023, This Repository is Archived - 2.2.2
 This distribution is retired in favor of [Gitness](https://gitness.com/).
 Can read more about our decision [here](https://www.harness.io/blog/retiring-harness-cd-community-edition-in-favor-of-gitness).
 
